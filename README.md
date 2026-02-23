@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" alt="PolyWOG" width="160" />
+</div>
+
 # PolyWOG
 
 **Workflow Orchestration Graph** — A polymorphic AI orchestration engine that routes requests through a pluggable pipeline of interpreters, routers, context weavers, executors, and formatters.
